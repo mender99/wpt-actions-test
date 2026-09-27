@@ -1,4 +1,4 @@
-{
+Success store{
   "@context": "http://www.w3.org/ns/anno.jsonld",
   "id": "http://example.org/anno9",
   "type": "Annotation",
